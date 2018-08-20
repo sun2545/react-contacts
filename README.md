@@ -17,3 +17,4 @@
 
 ### reference from udacity
 git clone https://github.com/udacity/reactnd-contacts-server2  for server
+git clone https://github.com/udacity/reactnd-contacts-app for complete project
