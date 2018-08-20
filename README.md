@@ -14,3 +14,6 @@
 ### icon which is the right ✖️, it deletes the information
 
 ![4](https://user-images.githubusercontent.com/26092150/44319794-0d082300-a40c-11e8-9cbf-804cd78da439.JPG)
+
+### reference from udacity
+git clone https://github.com/udacity/reactnd-contacts-server2  for server
